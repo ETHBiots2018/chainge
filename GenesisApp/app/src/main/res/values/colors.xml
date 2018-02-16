@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="red">#FF0800</color>
+    <color name="blue">#22264b</color>
+    <color name="blue2">#3333CC</color>
+    <color name="nettifairblue90">#E672afff</color>
+    <color name="nettibluegre">#F3F2F8</color>
+    <color name="nettibluedark">#f0eef6</color>
+    <color name="yellow">#f2b632</color>
+    <color name="yellow2">#FFFF33</color>
+    <color name="greydark">#D8D8D8</color>
+
+    <color name="transparent">#00000000</color>
+</resources>

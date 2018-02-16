@@ -1,0 +1,46 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.mcb.genesisapp.Views.ObtainerFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <Button
+        android:id="@+id/creator_fragment_get_balance_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Get Balance" />
+
+    <TextView
+        android:layout_marginTop="200px"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="User: Chainge" />
+
+    <TextView
+        android:id="@+id/trust_balance"
+        android:layout_marginTop="260px"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <TextView
+        android:id="@+id/evaluation_balance"
+        android:layout_marginTop="320px"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <TextView
+        android:layout_marginTop="450px"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Website: SBB" />
+
+    <TextView
+        android:id="@+id/evaluation_balance_web"
+        android:layout_marginTop="510px"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</FrameLayout>
